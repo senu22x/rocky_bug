@@ -2245,51 +2245,120 @@ break
             case 'price':
             case 'rockybot':
             case 'need_bot':
-                let xeonmenuoh = `Hey ${pushname}
+                let xeonmenuoh = `Rocky WA BOT ${pushname}
 ${xeonytimewisher}
 
-*Bot Owener Details-*
+*Owener Details-*
 > Name - *Master Rocky*
 > Real Name - *Sithum*
 > YouTube - _www.youtube.com/@OTM_Rocky
-> Contact Me On WA - https://wa.me/message/ZQFC4YAEOSM2B1
+> Contact Me On WA - https://wa.me/message/25CCB2QXLEORJ1
 > TikTOK- http://www.tiktok.com/@alone_sithu28
 
-Bot deploy available !
+*Rocky Android Bug ⚠️*
+> xandroid 
+> xandroid2
+> xandroidreset
+> xandroidnumberban
+> systemuicrash
+> xsysui
 
-> Bug Bot
+*Rocky Ios bug 🐛*
+> xios
+> xios2
+> xiosreset
+> xiosnumberban
 
-*  eZ Cash = Rs. 300
-* Reload = Rs. 350
-* Bank = Rs. 300
+*Rocky Group bug 🦠*
+> xgc
 
-> Status view only bot (no download cmd )
+*Owner menu 🔐*
+> getsession
+> deletesession
+> pp
+> join
+> shutdown  
+> restart
+> autoread *[option]*
+> autotyping *[option]*
+> autorecording *[option]*
+> autorecordtyp *[option]*
+> autobio *[option]*
+> autoswview *[option]*
+> mode *[option]*
+> block
+> unblock 
+> backup
+> getcase
+> addowner
+> delowner
+> bcgc
 
-* eZ cash = 200
-* Reload =250
-* Bank = 200
+*Group Menu 👪*
+> closetime
+> opentime
+> kick
+> add
+> promote
+> demote
+> setdesc
+> setppgc
+> tagall
+> hidetag
+> totag
+> group *[option]*
+> editinfo
+> linkgc
+> revoke
+> listonline
 
-> Full menu Bot (all cmd available )
+*Main menu ❤*
+> menu
+> buypremium   _94704104383_
+> runtime
+> script
+> donate
+> owner
+> rocky
 
-* eZ cash = 350
-* Reload = 400
-* Bank = 350
- 
-eZ cash & reload (reload or card)   = 94771665143
+*Convert menu 🔄*
+> sticker
+> smeme
+> take
+> toimage
+> tovideo
+> toaudio
+> tomp3
+> tovn
+> togif
+> tourl
+> toqr
+> toviewonce
+> fliptext
+> emojimix
 
-Bank Details; 
-* People's Bank
-* Acc No - 299200116542852
-* Name - MR NARANPANAWE HPUGASTENNE WIJERATHNE
-
-
-
-Contact Us ; 
-> Rocky = https://wa.me/+94704104383?text=need_bot
-
-> Praveen =https://wa.me/+94762857217?text=need_bot
-
-More Bot information = https://whatsapp.com/channel/0029VaqAxZ435fLnLIBAY33c`
+*Auto Reply Menu 🤖*
+> addvideo
+> addimage
+> addsticker
+> addvn
+> addzip
+> addapk
+> addpdf
+> delvideo
+> delimage
+> delsticker
+> delvn
+> delzip
+> delapk
+> delpdf
+> listvideo
+> listimage
+> liststicker
+> listvn
+> listzip
+> listapk
+> listpdf`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
